@@ -1,0 +1,6 @@
+ImmutableMultiDict([('phrase', 'now everything is ok'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0|{'e', 'i', 'o'}
+ImmutableMultiDict([('phrase', 'life, the universe, and everything else!'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0|{'u', 'i', 'e', 'a'}
+ImmutableMultiDict([('phrase', 'hitch-hiker'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0|{'i', 'e'}
+ImmutableMultiDict([('phrase', 'hello from chrome browser'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36|{'e', 'o'}
+ImmutableMultiDict([('phrase', "what's up"), ('letters', 'u')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0|{'u'}
+ImmutableMultiDict([('phrase', "What's that mess"), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0|{'a', 'e'}
